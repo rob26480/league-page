@@ -21,18 +21,6 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#2-add-man
 // To omit an optional field, set it's value to null
 
 export const managers = [
-//     {
-//       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-//       "name": "Lucas",
-//       "location": "Maryland", // (optional)
-//       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-//       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-//       "favoritePlayer": 7278, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-//       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "tradingScale": 10, // 1 - 10 (optional)
-//       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-//     },
-  
       {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Lucas"
