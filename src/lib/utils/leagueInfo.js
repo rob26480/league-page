@@ -41,7 +41,7 @@ export const managers = [
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Gui",
       "location": "Philadelphia, PA", // (optional)
-      "favoriteTeam": "wsh", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "favoritePlayer": 1747, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     },
@@ -98,7 +98,7 @@ export const managers = [
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Borja",
       "location": "Florida", // (optional)
-      "favoriteTeam": "Athletic Club", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "favoritePlayer": 6506, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     },
