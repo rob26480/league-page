@@ -56,7 +56,7 @@ export const managers = [
       {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Gui",
-      "location": "Philadelphia, PA", // (optional)
+      "location": "Pennsylvania", // (optional)
       "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "favoritePlayer": 1747, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
